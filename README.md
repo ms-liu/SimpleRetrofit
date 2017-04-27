@@ -1,0 +1,3 @@
+# SimpleRetrofit
+SimpleRetrofit
+对Retrofit代码的抽取，帮助理解Retrofit设计思想和编码过程。
